@@ -1,1 +1,2 @@
-"Holis, soy Fabi"git
+"Holis, soy Fabi"
+y esta es una practica para hacer un reporte de los comandos de git
